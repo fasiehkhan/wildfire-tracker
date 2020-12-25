@@ -1,11 +1,12 @@
 # Wildfire Tracker
 
-> This is a React app to track wildfires and plot them on a Google map.
+This is a React app to track wildfires and plot them on a Google map.
 
 ## Usage
 
 ```
 npm install
+npm i google-map-react @iconify/react @iconify/icons-mdi
 npm start
 
 # Build
