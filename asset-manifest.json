@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wildfire-tracker.git/static/css/main.c4c21b17.chunk.css",
-    "main.js": "/wildfire-tracker.git/static/js/main.02a33fdb.chunk.js",
-    "main.js.map": "/wildfire-tracker.git/static/js/main.02a33fdb.chunk.js.map",
-    "runtime-main.js": "/wildfire-tracker.git/static/js/runtime-main.bed63f58.js",
-    "runtime-main.js.map": "/wildfire-tracker.git/static/js/runtime-main.bed63f58.js.map",
-    "static/js/2.1c7d00fd.chunk.js": "/wildfire-tracker.git/static/js/2.1c7d00fd.chunk.js",
-    "static/js/2.1c7d00fd.chunk.js.map": "/wildfire-tracker.git/static/js/2.1c7d00fd.chunk.js.map",
-    "static/js/3.cb30bd2b.chunk.js": "/wildfire-tracker.git/static/js/3.cb30bd2b.chunk.js",
-    "static/js/3.cb30bd2b.chunk.js.map": "/wildfire-tracker.git/static/js/3.cb30bd2b.chunk.js.map",
-    "index.html": "/wildfire-tracker.git/index.html",
-    "static/css/main.c4c21b17.chunk.css.map": "/wildfire-tracker.git/static/css/main.c4c21b17.chunk.css.map",
-    "static/js/2.1c7d00fd.chunk.js.LICENSE.txt": "/wildfire-tracker.git/static/js/2.1c7d00fd.chunk.js.LICENSE.txt"
+    "main.css": "/wildfire-tracker/static/css/main.c4c21b17.chunk.css",
+    "main.js": "/wildfire-tracker/static/js/main.02a33fdb.chunk.js",
+    "main.js.map": "/wildfire-tracker/static/js/main.02a33fdb.chunk.js.map",
+    "runtime-main.js": "/wildfire-tracker/static/js/runtime-main.f9113149.js",
+    "runtime-main.js.map": "/wildfire-tracker/static/js/runtime-main.f9113149.js.map",
+    "static/js/2.1c7d00fd.chunk.js": "/wildfire-tracker/static/js/2.1c7d00fd.chunk.js",
+    "static/js/2.1c7d00fd.chunk.js.map": "/wildfire-tracker/static/js/2.1c7d00fd.chunk.js.map",
+    "static/js/3.cb30bd2b.chunk.js": "/wildfire-tracker/static/js/3.cb30bd2b.chunk.js",
+    "static/js/3.cb30bd2b.chunk.js.map": "/wildfire-tracker/static/js/3.cb30bd2b.chunk.js.map",
+    "index.html": "/wildfire-tracker/index.html",
+    "static/css/main.c4c21b17.chunk.css.map": "/wildfire-tracker/static/css/main.c4c21b17.chunk.css.map",
+    "static/js/2.1c7d00fd.chunk.js.LICENSE.txt": "/wildfire-tracker/static/js/2.1c7d00fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bed63f58.js",
+    "static/js/runtime-main.f9113149.js",
     "static/js/2.1c7d00fd.chunk.js",
     "static/css/main.c4c21b17.chunk.css",
     "static/js/main.02a33fdb.chunk.js"
