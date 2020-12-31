@@ -1,6 +1,7 @@
 # Wildfire Tracker
 
 This is a React app to track wildfires and plot them on a Google map.
+
 The app can be viewed here: https://fasiehkhan.github.io/wildfire-tracker/
 
 ## Usage
